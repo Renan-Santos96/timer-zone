@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Pomodoro Timer",
+    "version": "1.0",
+    "description": "Extensão Pomodoro",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "assets/pomodoro16.png",
+        "24": "assets/pomodoro24.png",
+        "128": "assets/pomodoro148.png"
+      }
+    },
+    "permissions": []
+  }
