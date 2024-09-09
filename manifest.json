@@ -11,5 +11,5 @@
         "128": "assets/pomodoro148.png"
       }
     },
-    "permissions": []
+    "permissions": ["storage"]
   }
