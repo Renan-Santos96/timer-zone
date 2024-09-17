@@ -14,20 +14,16 @@ O TimerZone é uma extensão para Google Chorme com objetivo de gerenciar o temp
 
 ## :file_folder:Estrutura do repositório
 TimerZone/
-│
-├── assets/               # Pasta contendo os ícones e áudio da extensão
-│   ├── pomodoro148.png
-│   ├── pomodoro16.png
-│   ├── pomodoro24.png
-│   └── alarm.mp3
-│
-├── README.md      # Arquivo de documentação
-├── manifest.json       # Configuração da extensão do Chrome
-├── popup.html          # HTML da interface do popup
-├── script.js                # Lógica do Pomodoro em JavaScript
-└── styles.css             # Estilos da interface em CSS
+ - assets/               # Pasta contendo os ícones e áudio da extensão
+	 - pomodoro148.png
+	 - pomodoro16.png
+	 - pomodoro24.png
 
-
+ - README.md           #Arquivo de documentação
+ - manifest.json       # Configuração da extensão do Chrome
+ - popup.html          # HTML da interface do popup
+ - script.js           # Lógica do Pomodoro em JavaScript
+ - styles.css          # Estilos da interface em CSS
 
 ## :computer:Como instalar localmente
 
