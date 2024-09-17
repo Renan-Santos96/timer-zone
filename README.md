@@ -13,7 +13,7 @@ O TimerZone é uma extensão para Google Chorme com objetivo de gerenciar o temp
  
 
 ## :file_folder:Estrutura do repositório
-pomodoro-timer/
+TimerZone/
 │
 ├── assets/               # Pasta contendo os ícones e áudio da extensão
 │   ├── pomodoro148.png
