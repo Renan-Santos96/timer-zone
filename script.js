@@ -87,4 +87,4 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
     requestNotificationPermission();
     resetTimer();
-});
+})
